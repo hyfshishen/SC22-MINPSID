@@ -1,0 +1,66 @@
+**** [TIME] **** : 28/07/2022 14:20:01
+Evaluating input: 42 31 39; CFG AVG Euclidean Distance: 0.0984794946170755
+**** [TIME] **** : 28/07/2022 14:20:13
+Evaluating input: 21 37 30; CFG AVG Euclidean Distance: 0.8338440848821397
+**** [TIME] **** : 28/07/2022 14:20:19
+Evaluating input: 34 25 34; CFG AVG Euclidean Distance: 0.06343262301781372
+**** [TIME] **** : 28/07/2022 14:20:27
+Evaluating input: 44 16 27; CFG AVG Euclidean Distance: 0.6800409533139065
+**** [TIME] **** : 28/07/2022 14:20:32
+Evaluating input: 49 25 6; CFG AVG Euclidean Distance: 0.9518218433522764
+**** [TIME] **** : 28/07/2022 14:20:34
+--> Best score at gen 0: 0.9518218433522764
+--> Best score so far : 0.9518218433522764
+-------------------------------------------------------
+Evaluating input: 49 25 6; CFG AVG Euclidean Distance: 0.29813348143415674
+**** [TIME] **** : 28/07/2022 14:20:37
+Evaluating input: 45 12 16; CFG AVG Euclidean Distance: 0.5854417018521701
+**** [TIME] **** : 28/07/2022 14:20:39
+Evaluating input: 49 25 6; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 14:20:42
+Evaluating input: 49 25 6; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 14:20:42
+Evaluating input: 44 16 31; CFG AVG Euclidean Distance: 0.008758370267766406
+**** [TIME] **** : 28/07/2022 14:20:47
+--> Best score at gen 1: 0.5854417018521701
+--> Best score so far : 0.9518218433522764
+-------------------------------------------------------
+Evaluating input: 44 16 31; CFG AVG Euclidean Distance: 0.008758370267766406
+**** [TIME] **** : 28/07/2022 14:20:47
+Evaluating input: 42 23 13; CFG AVG Euclidean Distance: 0.004245644890261253
+**** [TIME] **** : 28/07/2022 14:20:51
+Evaluating input: 45 12 16; CFG AVG Euclidean Distance: 0.0025420827140631304
+**** [TIME] **** : 28/07/2022 14:20:54
+Evaluating input: 45 12 16; CFG AVG Euclidean Distance: 0.0025420827140631304
+**** [TIME] **** : 28/07/2022 14:20:54
+Evaluating input: 44 16 31; CFG AVG Euclidean Distance: 0.008758370267766406
+**** [TIME] **** : 28/07/2022 14:20:54
+--> Best score at gen 2: 0.008758370267766406
+--> Best score so far : 0.9518218433522764
+-------------------------------------------------------
+Evaluating input: 50 16 31; CFG AVG Euclidean Distance: 0.004329812879777452
+**** [TIME] **** : 28/07/2022 14:21:01
+Evaluating input: 28 18 35; CFG AVG Euclidean Distance: 0.004018871540568194
+**** [TIME] **** : 28/07/2022 14:21:05
+Evaluating input: 50 16 31; CFG AVG Euclidean Distance: 0.004329812879777452
+**** [TIME] **** : 28/07/2022 14:21:05
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:08
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:08
+--> Best score at gen 3: 0.003009683493644834
+--> Best score so far : 0.9518218433522764
+-------------------------------------------------------
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:08
+Evaluating input: 47 18 13; CFG AVG Euclidean Distance: 0.002499485564382736
+**** [TIME] **** : 28/07/2022 14:21:11
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:11
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:11
+Evaluating input: 44 12 16; CFG AVG Euclidean Distance: 0.003009683493644834
+**** [TIME] **** : 28/07/2022 14:21:11
+--> Best score at gen 4: 0.003009683493644834
+--> Best score so far : 0.9518218433522764
+-------------------------------------------------------

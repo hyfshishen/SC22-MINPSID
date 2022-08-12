@@ -1,0 +1,11 @@
+-i kdd_cup
+-i cluster-01.txt
+-i cluster-02.txt
+-i cluster-03.txt
+-i cluster-04.txt
+-i cluster-05.txt
+-i cluster-06.txt
+-i cluster-07.txt
+-i cluster-08.txt
+-i cluster-09.txt
+-i cluster-10.txt

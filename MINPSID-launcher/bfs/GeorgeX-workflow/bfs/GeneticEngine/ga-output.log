@@ -1,0 +1,66 @@
+**** [TIME] **** : 28/07/2022 13:58:55
+Evaluating input: graph2363.txt; CFG AVG Euclidean Distance: 0.4984841863045202
+**** [TIME] **** : 28/07/2022 13:58:56
+Evaluating input: graph464.txt; CFG AVG Euclidean Distance: 0.06801274802503088
+**** [TIME] **** : 28/07/2022 13:58:57
+Evaluating input: graph856.txt; CFG AVG Euclidean Distance: 0.9984242135161242
+**** [TIME] **** : 28/07/2022 13:58:58
+Evaluating input: graph1784.txt; CFG AVG Euclidean Distance: 0.8861340256481137
+**** [TIME] **** : 28/07/2022 13:58:59
+Evaluating input: graph1050.txt; CFG AVG Euclidean Distance: 0.16209481977037454
+**** [TIME] **** : 28/07/2022 13:59:00
+--> Best score at gen 0: 0.9984242135161242
+--> Best score so far : 0.9984242135161242
+-------------------------------------------------------
+Evaluating input: graph842.txt; CFG AVG Euclidean Distance: 0.5715256812698609
+**** [TIME] **** : 28/07/2022 13:59:00
+Evaluating input: graph523.txt; CFG AVG Euclidean Distance: 0.018984396160027613
+**** [TIME] **** : 28/07/2022 13:59:01
+Evaluating input: graph856.txt; CFG AVG Euclidean Distance: 0.0007347996703561793
+**** [TIME] **** : 28/07/2022 13:59:02
+Evaluating input: graph856.txt; CFG AVG Euclidean Distance: 0.0007347996703561793
+**** [TIME] **** : 28/07/2022 13:59:02
+Evaluating input: graph856.txt; CFG AVG Euclidean Distance: 0.0007347996703561793
+**** [TIME] **** : 28/07/2022 13:59:02
+--> Best score at gen 1: 0.5715256812698609
+--> Best score so far : 0.9984242135161242
+-------------------------------------------------------
+Evaluating input: graph856.txt; CFG AVG Euclidean Distance: 0.0007347996703561793
+**** [TIME] **** : 28/07/2022 13:59:02
+Evaluating input: graph1953.txt; CFG AVG Euclidean Distance: 0.02444999400766779
+**** [TIME] **** : 28/07/2022 13:59:03
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:04
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:04
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:04
+--> Best score at gen 2: 0.02444999400766779
+--> Best score so far : 0.9984242135161242
+-------------------------------------------------------
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:04
+Evaluating input: graph2432.txt; CFG AVG Euclidean Distance: 0.012473355403808494
+**** [TIME] **** : 28/07/2022 13:59:05
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:05
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:05
+Evaluating input: graph1953.txt; CFG AVG Euclidean Distance: 0.02444999400766779
+**** [TIME] **** : 28/07/2022 13:59:05
+--> Best score at gen 3: 0.02444999400766779
+--> Best score so far : 0.9984242135161242
+-------------------------------------------------------
+Evaluating input: graph1659.txt; CFG AVG Euclidean Distance: 0.011832191676352313
+**** [TIME] **** : 28/07/2022 13:59:06
+Evaluating input: graph2131.txt; CFG AVG Euclidean Distance: 0.01632474154186253
+**** [TIME] **** : 28/07/2022 13:59:08
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:08
+Evaluating input: graph1659.txt; CFG AVG Euclidean Distance: 0.011832191676352313
+**** [TIME] **** : 28/07/2022 13:59:08
+Evaluating input: graph314.txt; CFG AVG Euclidean Distance: 0.013614051342932604
+**** [TIME] **** : 28/07/2022 13:59:08
+--> Best score at gen 4: 0.01632474154186253
+--> Best score so far : 0.9984242135161242
+-------------------------------------------------------

@@ -1,0 +1,40 @@
+**** [TIME] **** : 28/07/2022 15:07:02
+Evaluating input: 3120 293 1; CFG AVG Euclidean Distance: 0.39705399916447226
+**** [TIME] **** : 28/07/2022 15:07:44
+Evaluating input: 2160 65 1; CFG AVG Euclidean Distance: 0.38312501508306795
+**** [TIME] **** : 28/07/2022 15:07:59
+Evaluating input: 912 162 1; CFG AVG Euclidean Distance: 0.5468190623301618
+**** [TIME] **** : 28/07/2022 15:08:02
+Evaluating input: 1648 94 1; CFG AVG Euclidean Distance: 0.20256435785691873
+**** [TIME] **** : 28/07/2022 15:08:10
+Evaluating input: 832 91 1; CFG AVG Euclidean Distance: 0.27322494241288153
+**** [TIME] **** : 28/07/2022 15:08:12
+--> Best score at gen 0: 0.5468190623301618
+--> Best score so far : 0.5468190623301618
+-------------------------------------------------------
+Evaluating input: 832 91 1; CFG AVG Euclidean Distance: 0.3491604654177475
+**** [TIME] **** : 28/07/2022 15:08:14
+Evaluating input: 2272 109 1; CFG AVG Euclidean Distance: 0.873922006572618
+**** [TIME] **** : 28/07/2022 15:08:33
+Evaluating input: 912 162 1; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 15:08:36
+Evaluating input: 912 162 1; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 15:08:36
+Evaluating input: 832 91 1; CFG AVG Euclidean Distance: 0.0002581192516036581
+**** [TIME] **** : 28/07/2022 15:08:38
+--> Best score at gen 1: 0.873922006572618
+--> Best score so far : 0.873922006572618
+-------------------------------------------------------
+Evaluating input: 832 91 1; CFG AVG Euclidean Distance: 0.0002581192516036581
+**** [TIME] **** : 28/07/2022 15:08:38
+Evaluating input: 288 28 1; CFG AVG Euclidean Distance: 0.00896899575358753
+**** [TIME] **** : 28/07/2022 15:08:38
+Evaluating input: 2272 109 1; CFG AVG Euclidean Distance: 0.0008205903290765244
+**** [TIME] **** : 28/07/2022 15:08:52
+Evaluating input: 2272 109 1; CFG AVG Euclidean Distance: 0.0008205903290765244
+**** [TIME] **** : 28/07/2022 15:08:52
+Evaluating input: 2272 109 1; CFG AVG Euclidean Distance: 0.0008205903290765244
+**** [TIME] **** : 28/07/2022 15:08:52
+--> Best score at gen 2: 0.00896899575358753
+--> Best score so far : 0.873922006572618
+-------------------------------------------------------

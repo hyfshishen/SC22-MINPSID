@@ -1,0 +1,27 @@
+**** [TIME] **** : 28/07/2022 15:15:14
+Evaluating input: filelist.txt 12 179 78; CFG AVG Euclidean Distance: 0.8130710254701748
+**** [TIME] **** : 28/07/2022 15:15:16
+Evaluating input: filelist.txt 4 10 80; CFG AVG Euclidean Distance: 0.3740957031092096
+**** [TIME] **** : 28/07/2022 15:15:17
+Evaluating input: filelist.txt 10 155 41; CFG AVG Euclidean Distance: 0.1728613796278914
+**** [TIME] **** : 28/07/2022 15:15:20
+Evaluating input: filelist.txt 10 11 64; CFG AVG Euclidean Distance: 0.6508960395538772
+**** [TIME] **** : 28/07/2022 15:15:21
+Evaluating input: filelist.txt 19 157 83; CFG AVG Euclidean Distance: 0.5905403017844552
+**** [TIME] **** : 28/07/2022 15:15:24
+--> Best score at gen 0: 0.6508960395538772
+--> Best score so far : 0.6508960395538772
+-------------------------------------------------------
+Evaluating input: filelist.txt 19 157 83; CFG AVG Euclidean Distance: 0.09567262477762684
+**** [TIME] **** : 28/07/2022 15:15:26
+Evaluating input: filelist.txt 10 166 3; CFG AVG Euclidean Distance: 0.5599462582684981
+**** [TIME] **** : 28/07/2022 15:15:28
+Evaluating input: filelist.txt 10 11 64; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 15:15:29
+Evaluating input: filelist.txt 4 10 80; CFG AVG Euclidean Distance: 0.10850659891294331
+**** [TIME] **** : 28/07/2022 15:15:31
+Evaluating input: filelist.txt 4 10 80; CFG AVG Euclidean Distance: 0.10850659891294331
+**** [TIME] **** : 28/07/2022 15:15:31
+--> Best score at gen 1: 0.5599462582684981
+--> Best score so far : 0.6508960395538772
+-------------------------------------------------------

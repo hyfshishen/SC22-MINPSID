@@ -1,0 +1,11 @@
+cd bfs-graph1M.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph1M.txt" 20 && cd ..
+cd bfs-graph20.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph20.txt" 20 && cd ..
+cd bfs-graph2419.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph2419.txt" 20 && cd ..
+cd bfs-graph803.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph803.txt" 20 && cd ..
+cd bfs-graph2617.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph2617.txt" 20 && cd ..
+cd bfs-graph1930.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph1930.txt" 20 && cd ..
+cd bfs-graph1305.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph1305.txt" 20 && cd ..
+cd bfs-graph181.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph181.txt" 20 && cd ..
+cd bfs-graph1512.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph1512.txt" 20 && cd ..
+cd bfs-graph2051.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph2051.txt" 20 && cd ..
+cd bfs-graph2801.txt && python profileInstType.py bfs && python runFiForInst.py bfs "graph2801.txt" 20 && cd ..

@@ -1,0 +1,40 @@
+**** [TIME] **** : 28/07/2022 13:53:50
+Evaluating input: 288; CFG AVG Euclidean Distance: 0.3736073055892394
+**** [TIME] **** : 28/07/2022 13:53:50
+Evaluating input: 4064; CFG AVG Euclidean Distance: 0.21100039159034245
+**** [TIME] **** : 28/07/2022 13:53:54
+Evaluating input: 3856; CFG AVG Euclidean Distance: 0.923316341865368
+**** [TIME] **** : 28/07/2022 13:53:57
+Evaluating input: 528; CFG AVG Euclidean Distance: 0.47858939742425033
+**** [TIME] **** : 28/07/2022 13:53:58
+Evaluating input: 1920; CFG AVG Euclidean Distance: 0.5159545913059126
+**** [TIME] **** : 28/07/2022 13:54:00
+--> Best score at gen 0: 0.5159545913059126
+--> Best score so far : 0.5159545913059126
+-------------------------------------------------------
+Evaluating input: 1920; CFG AVG Euclidean Distance: 0.630686784565451
+**** [TIME] **** : 28/07/2022 13:54:01
+Evaluating input: 288; CFG AVG Euclidean Distance: 0.889272002408384
+**** [TIME] **** : 28/07/2022 13:54:02
+Evaluating input: 528; CFG AVG Euclidean Distance: 0.9624216338716758
+**** [TIME] **** : 28/07/2022 13:54:03
+Evaluating input: 528; CFG AVG Euclidean Distance: 0.9023400139282094
+**** [TIME] **** : 28/07/2022 13:54:04
+Evaluating input: 528; CFG AVG Euclidean Distance: 0.32859564965968224
+**** [TIME] **** : 28/07/2022 13:54:05
+--> Best score at gen 1: 0.630686784565451
+--> Best score so far : 0.630686784565451
+-------------------------------------------------------
+Evaluating input: 288; CFG AVG Euclidean Distance: 0.13990117175782668
+**** [TIME] **** : 28/07/2022 13:54:06
+Evaluating input: 4336; CFG AVG Euclidean Distance: 0.8384710465275083
+**** [TIME] **** : 28/07/2022 13:54:09
+Evaluating input: 1920; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 13:54:11
+Evaluating input: 1920; CFG AVG Euclidean Distance: 0.0
+**** [TIME] **** : 28/07/2022 13:54:11
+Evaluating input: 288; CFG AVG Euclidean Distance: 0.0032948030795987384
+**** [TIME] **** : 28/07/2022 13:54:12
+--> Best score at gen 2: 0.8384710465275083
+--> Best score so far : 0.8384710465275083
+-------------------------------------------------------

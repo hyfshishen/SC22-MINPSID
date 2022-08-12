@@ -1,0 +1,16 @@
+compileOption:
+    instSelMethod:
+      - customInstselector:
+          include:
+            - llfiindex
+          options:
+            - -injecttoindex=XXXX
+
+    regSelMethod: regloc
+    regloc: dstreg
+
+runOption:
+    - run:
+        numOfRuns: 100
+        fi_type: bitflip
+        timeOut: 20
