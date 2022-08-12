@@ -16,7 +16,7 @@ However, existing SID methods are confined to single program input in its assess
 Nevertheless, we observe that the assumption cannot always hold, leading to a drastic loss in SDC coverage across different inputs, compromising HPC reliability. 
 To this end, we propose
 **MINPSID**, an LLVM IR-level SID framework that automatically and flexibly hardens a program against SDC across multiple program inputs. 
-To know more about how **MINPSID** works, you may refer to our [SC'22 paper](https://hyfshishen.github.io/publications/SC'22-Paper.pdf).
+To know more about how **MINPSID** works, you may refer to our [SC'22 paper]() and [PPoPP'22 paper]().
 
 <p align="center"><img src="./images/workflow.jpg"/></p>
 
