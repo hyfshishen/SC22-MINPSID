@@ -23,7 +23,7 @@ To know more about how **MINPSID** works, you may refer to our [SC'22 paper]() a
 ## Environment Configuration
 > Before configuring the environments, please make sure your CPU supports at least 20 threads (checking by "nproc"), since fault injection experiments are time-consuming and should be accelerated in parallel.
 
-There are two methods to configure environments for MINPSID: one is using the Docker image we prepared, the other one is manually setting up environments on your local Ubuntu 16.04 machine. **We highly recommend you use the Docker image we prepared**, because all the dependencies are already configured on that. Very easy to use :)!
+There are two methods to configure environments for MINPSID: one is using the Docker image we prepared, the other one is manually setting up environments on your local Ubuntu 16.04 machine. **We highly recommend you use the Docker image we prepared**, because all the dependencies are already configured on that. Very easy to use :)! Please do not use zsh to run the scripts, since it will automatically shutdown some per-instrcution-fault-injection experiments.
 
 ### For those who use Docker (highly recommend!)
 To install Docker on your local **Linux** machine, you can follow the steps in this [LINK](https://docs.docker.com/engine/install/ubuntu/). You may also want to use Docker without sudo access (like I did in following commands), please check this [LINK](https://docs.docker.com/engine/install/linux-postinstall/). (ofc you can ignore this if you are expertise in Docker... orz)
