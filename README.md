@@ -173,4 +173,7 @@ Results in this section refers to Figure 9 in paper. We here use bfs as example,
 [Yafan Huang](https://hyfshishen.github.io/) from the University of Iowa.
 
 ## Citation
-To-do.
+- "[SZ3: A modular framework for composing prediction-based error-bounded lossy compressors](https://ieeexplore.ieee.org/abstract/document/9866018)",
+  IEEE Transactions on Big Data (TBD 22).
+
+- **[PPoPP'22]** [Hardening selective protection across multiple program inputs for HPC applications](https://dl.acm.org/doi/10.1145/3503221.3508414)
